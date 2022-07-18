@@ -1,1 +1,2 @@
-fadfsgdfhmjhkjgkjg
+console.log("firstCode");
+alert("hi");
